@@ -7,5 +7,6 @@ public class Controller {
 public String math()
 {
 return "Springboot Application";
+
 }
 }
